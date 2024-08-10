@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 A computer science student, I explore the tech sky,<br>💻 Currently learning front-end technologies, crafting experiences that dazzle and fly,<br>🤝 Looking for colloboration with exciting and fun tech projects, where creativity and innovation thrive,<br>⚡ I'm diving deep into DSA, where algorithms and data structures come alive,<br>🤔 I conquer complexities, and let my problem-solving abilities multiply.
+<div style="overflow: hidden;">
+  <img src="" />
+  🔭 A computer science student, I explore the tech sky,<br>
+  💻 Currently learning front-end technologies, crafting experiences that dazzle and fly,<br>
+  🤝 Looking for collaboration with exciting and fun tech projects, where creativity and innovation thrive,<br>
+  ⚡ I'm diving deep into DSA, where algorithms and data structures come alive,<br>
+  🤔 I conquer complexities, and let my problem-solving abilities multiply.
+</div>
 
 
 ## 🌐 Socials:
