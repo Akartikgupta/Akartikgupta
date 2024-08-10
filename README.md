@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div style="overflow: hidden;">
-  <img src="https://github.com/Akartikgupta/Akartikgupta/blob/main/background.gif" />
+  <img src="https://github.com/Akartikgupta/Akartikgupta/blob/main/background.gif" align="right" alt="coding" width="340" style="margin-left: 20px; margin-bottom: 20px;/>
   🔭 A computer science student, I explore the tech sky,<br>
   💻 Currently learning front-end technologies, crafting experiences that dazzle and fly,<br>
   🤝 Looking for collaboration with exciting and fun tech projects, where creativity and innovation thrive,<br>
